@@ -4,5 +4,5 @@ Converts a string of text to a square made up on individual colour blocks repres
 
 Requirements:
 
-    * pillow
-    * flask
+ * pillow
+ * flask
